@@ -1,0 +1,14 @@
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.exe
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.deps.json
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.runtimeconfig.json
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.runtimeconfig.dev.json
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.dll
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\bin\Debug\netcoreapp3.1\HomeWorkPAISTask3.pdb
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.csproj.AssemblyReference.cache
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.AssemblyInfoInputs.cache
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.AssemblyInfo.cs
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.csproj.CoreCompileInputs.cache
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.dll
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.pdb
+C:\Users\vusal\Desktop\HomeWorkPAISTask3\HomeWorkPAISTask3\obj\Debug\netcoreapp3.1\HomeWorkPAISTask3.genruntimeconfig.cache
